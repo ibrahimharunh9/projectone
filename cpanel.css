@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: gray;
+    padding: 20px;
+}
+.container{
+    width: 30%;
+    padding: 30px;
+    margin: 50px;
+    background-color: aquamarine;
+    border-radius: 5px;
+
+}
+.wrapper{
+    text-align:left;
+}
+.editContainer{
+    font-size: 20px;
+    padding: 5px;
+    margin: auto;
+    border-radius: 40%;
+    border: 1px solid blueviolet;
+    border-radius: 4px;
+    background-color: rgb(97, 20, 20);
+}
+.editContainer p{
+    color: white;
+    font-size: 15px;
+}
+.editContainer i{
+    width: 50px;
+    height: 50px;
+    border-radius: 30%;
+    color:red;
+}
+.text{
+    text-align: center;
+}
+.text h1{
+    font-size: 30px;
+    font-weight: bolder;
+    color: red;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.datail{
+    text-align: center;
+}
+
+label {
+    display: block;
+}
+
+.box1{
+    margin-bottom: 15px;
+    padding: 20px;
+}
